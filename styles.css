@@ -1,0 +1,22 @@
+body{
+    margin:0px;
+}
+header{
+    display:flex;
+    justify-content: space-between;
+    background-color: rgb(29, 163, 252);
+    width: 100%;
+}
+nav.a{
+    padding: 10px 15px;
+    color: rgb(250, 13, 159);
+    float: right;
+
+}
+nav.a:hover{
+    background-color: rgb(236, 240, 31);
+}
+.banner{
+    float: left;
+    color: white;
+}
